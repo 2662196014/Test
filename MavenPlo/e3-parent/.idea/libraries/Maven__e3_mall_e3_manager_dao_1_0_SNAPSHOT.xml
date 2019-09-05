@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: e3.mall:e3-manager-dao:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/e3/mall/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../e3-manager/e3-manager-dao/e3-manager-dao-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/e3/mall/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../e3-manager/e3-manager-dao/e3-manager-dao-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/e3/mall/e3-manager-dao/1.0-SNAPSHOT/e3-manager-dao-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
